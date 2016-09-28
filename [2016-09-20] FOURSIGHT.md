@@ -1,16 +1,14 @@
 
-**Homework**:
-
-Think about a problem to solve, related to life (forward or back two weeks).
--   Put on a **white hat**, bring up the facts and figures of the problem
--   Put on a **red** hat, bring up the emotions involved with the problem
--   Put on a **black hat**, play the devils advocate, look at the
--   Put on a **Yellow hat**, look at the positives
--   Put on a **green hat**, come up with ideas for the problem
--   Put on a **blue hat**, and decide what to do with the ideas
-
--   Do exercises in workbook - do some?
-    -   Intro: what is your problem?
+> Homework :
+> Think about a problem to solve, related to life (forward or back two weeks).
+> Put on a **white hat**, bring up the facts and figures of the problem
+> Put on a **red** hat, bring up the emotions involved with the problem
+> Put on a **black hat**, play the devils advocate, look at the
+> Put on a **Yellow hat**, look at the positives
+> Put on a **green hat**, come up with ideas for the problem
+> Put on a **blue hat**, and decide what to do with the ideas
+> Do exercises in workbook do some?
+> Intro: what is your problem?
 
 
 ----
